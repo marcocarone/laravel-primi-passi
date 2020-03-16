@@ -16,4 +16,4 @@
 // });
 
 
-Route::get('/', 'cdMusicali@index');
+Route::get('/', 'cdsController@index');
